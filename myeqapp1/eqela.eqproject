@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MyEQApp1
+#
+
+projectname: MyEQApp1
+vendorid: com.mycompany.EQ
+mainmodule: com.mycompany.EQ.myeqapp1
